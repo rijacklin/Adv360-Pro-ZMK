@@ -17,8 +17,6 @@
           #binding-cells = <2>;
           flavor = "balanced";
           tapping-term-ms = <200>;
-          quick-tap-ms = <175>;
-          require-prior-idle-ms = <150>;
           bindings = <&kp>, <&kp>;
           // ALL RIGHT HAND keys (so left mods only activate with right hand keys)
           hold-trigger-key-positions = <
@@ -37,8 +35,6 @@
           #binding-cells = <2>;
           flavor = "balanced";
           tapping-term-ms = <200>;
-          quick-tap-ms = <175>;
-          require-prior-idle-ms = <150>;
           bindings = <&kp>, <&kp>;
           // ALL LEFT HAND keys (so right mods only activate with left hand keys)
           hold-trigger-key-positions = <
